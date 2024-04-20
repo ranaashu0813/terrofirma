@@ -1,5 +1,11 @@
 const catalog =[
-
+{
+    id:1,
+    image:'/scroll_image/image_s_1.jpg',
+    price:2500,
+    description:"Price per 100 sq.ft = 590"
+    
+},
 
 {
     id:2,

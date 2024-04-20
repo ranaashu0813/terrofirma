@@ -27,7 +27,12 @@ nav ul {
 nav ul li {
    list-style: none; 
 }
-
+.navlink .logo_div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 nav ul li a {
     display: block;
     text-decoration: none;

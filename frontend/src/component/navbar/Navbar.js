@@ -10,8 +10,11 @@ const Navbar = () => {
    <div >
      <nav className="navlink" style={{marginTop:"1rem"}}>
       <Link to="/" className="title">
-       <span style={{color:"skyblue"}}>Terrafirma </span>
-       <span style={{color:"red"}}>Developement  </span>
+        <div className="logo_div">
+        <span style={{color:"skyblue"}}>Terra firma GRC</span>
+       <span style={{color:"red"}}>And Concrete </span>
+        </div>
+      
       </Link>
       <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>
         <span></span>
