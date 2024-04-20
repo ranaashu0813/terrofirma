@@ -3,7 +3,7 @@ import './Carsoul.css'
 const Carasoul = () => {
   return (
     <>
-      <div id="carouselExampleCaptions" className="carousel slide" data-bs-ride="false">
+      <div id="carouselExampleCaptions" className="carousel slide w-100" data-bs-ride="false">
   <div className="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -11,22 +11,22 @@ const Carasoul = () => {
   </div>
   <div className="carousel-inner" style={{height: "31rem"}}>
     <div className="carousel-item active">
-    <img src="/image1.jpg" className="d-block w-100" alt="..." style={{ height: "31rem"}}/>
-      <div className="carousel-caption d-none d-md-block">
+    <img src="/image1.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
+      <div className="carousel-caption d-md-block">
         <h5 style={{fontSize:" 3.25rem"}}>Discover Your Design Destiny</h5>
         <p style={{ fontSize: " x-large" }}>Where Creativity Meets Structure</p>
       </div>
     </div>
     <div className="carousel-item">
-      <img src="/image2.jpg" className="d-block w-100" alt="..." style={{ height: "31rem"}}/>
-      <div className="carousel-caption d-none d-md-block">
+      <img src="/image2.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
+      <div className="carousel-caption  d-md-block">
         <h5 style={{fontSize:" 3.25rem"}}>Unveiling Architectural Wonders</h5>
         <p style={{ fontSize: " x-large" }}>Explore, Envision, Elevate.</p>
       </div>
     </div>
     <div className="carousel-item">
-      <img src="/image3.jpg" className="d-block w-100" alt="..." style={{ height: "31rem"}}/>
-      <div className="carousel-caption d-none d-md-block">
+      <img src="/image3.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
+      <div className="carousel-caption  d-md-block">
         <h5 style={{fontSize:" 3.25rem"}}>Crafting Dreams into Concrete Realities</h5>
         <p style={{ fontSize: " x-large" }}>Your Journey Starts Here.</p>
       </div>

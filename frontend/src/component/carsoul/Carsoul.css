@@ -1,9 +1,10 @@
-img{
-    max-width: 100%;
+.carasol_image{
+    max-width: 100vw;
     max-height: 88vh;
     object-fit: cover;
     padding: 0 15px;
 }
+
 @media only screen and (max-width:768px){
     
 .carousel-caption h5{
