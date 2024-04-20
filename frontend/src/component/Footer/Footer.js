@@ -8,7 +8,7 @@ const Footer = () => {
         <footer class="footer">
       <div class="container">
         <div class="col1">
-          <Link to="#" class="brand">Terra firma Developement pvt ltd</Link>
+          <Link to="#" class="brand">Terra firma GRC and Concrete</Link>
           <ul class="media-icons">
             <li>
               <Link to="/"><i class="fa-brands fa-youtube"></i></Link>
@@ -60,7 +60,7 @@ const Footer = () => {
       </div>
       <div class="footer-bottom">
         <div class="mekk">
-          <p>@Terrafirma grc 2024 - All Rights Reserved</p>
+          <p>@Terra firma grc 2024 - All Rights Reserved</p>
         </div>
       </div>
     </footer>
