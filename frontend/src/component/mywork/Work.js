@@ -20,8 +20,8 @@ const Product = () => {
                     <img 
                     className="group-hover:rounded-br-[100px] rounded-br-[0px] transition-[border-radius]"
                     src={currelm.image} />
-                    <p className="m-[5px] text-[#262626] text-base">Name</p>
-                    <p className="m-[5px] text-[#777674] text-xs">Title</p>
+                    <p className="m-[5px] text-[#262626] text-base">{currelm.price}</p>
+                    
                 
                     <svg
                     className="group-hover:opacity-100 opacity-0 transition-opacity absolute right-[10px] bottom-[10px]"
