@@ -8,6 +8,7 @@ const Footer = () => {
         <footer class="footer">
       <div class="container">
         <div class="col1">
+          <img src="/logo.png" alt="" />
           <Link to="#" class="brand">Terra firma GRC and Concrete</Link>
           <ul class="media-icons">
             <li>

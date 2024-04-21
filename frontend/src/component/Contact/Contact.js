@@ -60,11 +60,11 @@ air pollution.
           <div class="info">
             <div class="information">
               <img src="img/location.png" class="icon" alt="" />
-              <p> C5PH+GJC, Link Road, Dera Village, Dera Mandi, New Delhi, Delhi 110074</p>
+              <p>Jamal NO-110/98, Villa Balola, Tehsil - Wazirabad, Dist-Gurugram, Haryan-122015 </p>
             </div>
             <div class="information">
               <img src="img/email.png" class="icon" alt="" />
-              <p>Terrafirmagrc@hotmail.com</p>
+              <p>terrafirmagrc@hotmail.com</p>
             </div>
             <div class="information">
               <img src="img/phone.png" class="icon" alt="" />
