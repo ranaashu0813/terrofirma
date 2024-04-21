@@ -86,7 +86,7 @@ const Product_Work =[
         
     },
     {
-        id:1,
+        id:15,
         image:'/Work_image/image1.jpg',
         price:'GRC BHUTAN ',
         description:"this is good catalog"
@@ -94,7 +94,7 @@ const Product_Work =[
     },
     
     {
-        id:2,
+        id:16,
         image:'/Work_image/image2.jpg',
         price:'GRC PANEL TRIPURA BHAWAN CHANAKYAPURI',
         description:"this is good catalog"

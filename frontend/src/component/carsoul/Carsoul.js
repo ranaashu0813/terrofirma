@@ -13,7 +13,7 @@ const Carasoul = () => {
     <div className="carousel-item active">
     <img src="/image1.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
       <div className="carousel-caption d-md-block">
-        <h5 className=' md:text-2xl'>Discover Your Design Destiny</h5>
+        <h5 className=' md:text-2xl '>Discover Your Design Destiny</h5>
         <p >Where Creativity Meets Structure</p>
       </div>
     </div>

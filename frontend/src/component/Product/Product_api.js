@@ -179,6 +179,93 @@ const catalog =[
     description:"Price per 100 sq.ft = 400"
     
 }
-
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_31.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_32.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_33.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+// ,
+// {
+//     id:31,
+//     image:'/scroll_image/image_s_34.jpg',
+//     price:2500,
+//     description:"Price per sq.ft = 400"
+    
+// }
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_35.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_36.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_37.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_38.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_39.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_40.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_41.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
 ]
 export default catalog; 
