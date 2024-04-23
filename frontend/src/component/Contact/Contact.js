@@ -69,9 +69,13 @@ air pollution.
             <div class="information">
               <img src="img/phone.png" class="icon" alt="" />
               
-              <p> Off:011-41851337 | </p>
+              <div className="phone_number">
+
+              <p> Off : 011-41851337  </p>
               
-              <p>MOB: 9810286522</p>
+              <p>MOB : 9810286522</p>
+              </div>
+   
             </div>
           </div>
 

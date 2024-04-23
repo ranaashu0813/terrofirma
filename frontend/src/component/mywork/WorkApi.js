@@ -59,7 +59,7 @@ const Product_Work =[
     {
         id:9,
         image:'/Work_image/image9.jpg',
-        price:'BANQUET HALL DELHI',
+        price:'ITC, GRAND BHARAT',
         description:"this is good catalog"
         
     },
@@ -73,7 +73,7 @@ const Product_Work =[
     {
         id:11,
         image:'/Work_image/image11.jpg',
-        price:'BANQUET HALL DELHI',
+        price:'A PROJECT AT DEHRADUN',
         description:"this is good catalog"
         
     },
@@ -101,7 +101,7 @@ const Product_Work =[
     {
         id:15,
         image:'/Work_image/image15.jpg',
-        price:'GRC BHUTAN ',
+        price:'ITC, GRAND BHARAT',
         description:"this is good catalog"
         
     },
@@ -109,14 +109,14 @@ const Product_Work =[
     {
         id:16,
         image:'/Work_image/image16.jpg',
-        price:'GRC PANEL TRIPURA BHAWAN CHANAKYAPURI',
+        price:'GRC, BHUTAN',
         description:"this is good catalog"
         
     },
     {
         id:17,
         image:'/Work_image/image17.jpg',
-        price:'BANQUET HALL DELHI',
+        price:'MGF FURGAON',
         description:"this is good catalog"
         
     },
@@ -130,28 +130,28 @@ const Product_Work =[
     {
         id:19,
         image:'/Work_image/image19.jpg',
-        price:'MGF GURGAON VILAAS PROJECT',
+        price:'ARCHITECT SANJAY PURI: SHALIMAR MALL GANDHI NAGAR GUJRAT',
         description:"this is good catalog"
         
     },
     {
         id:20,
         image:'/Work_image/image20.jpg',
-        price:'ITC GRAND BHARAT',
+        price:'CPWD, R K PURAM',
         description:"this is good catalog"
         
     },
     {
         id:21,
         image:'/Work_image/image21.jpg',
-        price:'JAISALMER AIRPORT',
+        price:'RAVI JAIPURIYA DPS GURGAON ',
         description:"this is good catalog"
         
     },
     {
         id:22,
         image:'/Work_image/image22.jpg',
-        price:'BANQUET HALL DELHI',
+        price:'JNU VASANT VIHAR',
         description:"this is good catalog"
         
     },
@@ -159,28 +159,28 @@ const Product_Work =[
     {
         id:23,
         image:'/Work_image/image23.jpg',
-        price:'COLUMN CAPA CAPITA',
+        price:'JAISALMER AIRPORT',
         description:"this is good catalog"
         
     },
     {
         id:24,
         image:'/Work_image/image24.jpg',
-        price:'ASHIMA MALL BHOPA',
+        price:'GRC BHUTAN',
         description:"this is good catalog"
         
     },
     {
         id:25,
         image:'/Work_image/image25.jpg',
-        price:'L&T EXHIBITION CENTRE GANDHI NAGAR',
+        price:'STEP BY STEP SCHOOL NOIDA',
         description:"this is good catalog"
         
     },
     {
         id:26,
         image:'/Work_image/image26.jpg',
-        price:'UNITECH VISTA VILAS',
+        price:'DMRDC CKHAN MARKET METRO STATION DELHI',
         description:"this is good catalog"
         
     },
@@ -194,21 +194,21 @@ const Product_Work =[
     {
         id:28,
         image:'/Work_image/image28.jpg',
-        price:'UNITECH VISTA VILAS',
+        price:'HOUSING PROJECT JHAJJAR ',
         description:"this is good catalog"
         
     },
     {
         id:29,
         image:'/Work_image/image29.jpg',
-        price:'UNITECH VISTA VILAS',
+        price:'ITC GRAND BHARAT',
         description:"this is good catalog"
         
     },
     {
         id:30,
         image:'/Work_image/image30.jpg',
-        price:'UNITECH VISTA VILAS',
+        price:'JP GREEN NOIDA',
         description:"this is good catalog"
         
     },
