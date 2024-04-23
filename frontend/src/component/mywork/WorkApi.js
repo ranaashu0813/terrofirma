@@ -123,35 +123,35 @@ const Product_Work =[
     {
         id:18,
         image:'/Work_image/image18.jpg',
-        price:'CPWD CAG BUILDING DELHI',
+        price:'ARCHITECT SANJAY PURI: SHALIMAR MALL GANDHI NAGAR GUJRAT',
         description:"this is good catalog"
         
     },
     {
         id:19,
         image:'/Work_image/image19.jpg',
-        price:'ARCHITECT SANJAY PURI: SHALIMAR MALL GANDHI NAGAR GUJRAT',
+        price:'CPWD, R K PURAM',
         description:"this is good catalog"
         
     },
     {
         id:20,
         image:'/Work_image/image20.jpg',
-        price:'CPWD, R K PURAM',
+        price:'AVI JAIPURIYA DPS GURGAON ',
         description:"this is good catalog"
         
     },
     {
         id:21,
         image:'/Work_image/image21.jpg',
-        price:'RAVI JAIPURIYA DPS GURGAON ',
+        price:'JNU VASANT VIHAR',
         description:"this is good catalog"
         
     },
     {
         id:22,
         image:'/Work_image/image22.jpg',
-        price:'JNU VASANT VIHAR',
+        price:'JAISALMER AIRPORT',
         description:"this is good catalog"
         
     },
@@ -159,63 +159,63 @@ const Product_Work =[
     {
         id:23,
         image:'/Work_image/image23.jpg',
-        price:'JAISALMER AIRPORT',
+        price:'GRC BHUTAN',
         description:"this is good catalog"
         
     },
     {
         id:24,
         image:'/Work_image/image24.jpg',
-        price:'GRC BHUTAN',
+        price:'STEP BY STEP SCHOOL NOIDA',
         description:"this is good catalog"
         
     },
     {
         id:25,
         image:'/Work_image/image25.jpg',
-        price:'STEP BY STEP SCHOOL NOIDA',
+        price:'DMRDC CKHAN MARKET METRO STATION DELHI',
         description:"this is good catalog"
         
     },
     {
         id:26,
         image:'/Work_image/image26.jpg',
-        price:'DMRDC CKHAN MARKET METRO STATION DELHI',
+        price:'HOUSDING PROJECT, JHAJJAR',
         description:"this is good catalog"
         
     },
     {
         id:27,
         image:'/Work_image/image27.jpg',
-        price:'UNITECH VISTA VILAS',
+        price:'ITC GRAND BHARAT',
         description:"this is good catalog"
         
     },
     {
         id:28,
         image:'/Work_image/image28.jpg',
-        price:'HOUSING PROJECT JHAJJAR ',
+        price:'JP GREEN NOIDA',
         description:"this is good catalog"
         
     },
     {
         id:29,
         image:'/Work_image/image29.jpg',
-        price:'ITC GRAND BHARAT',
+        price:'JAISALMER AIRPORT',
         description:"this is good catalog"
         
     },
     {
         id:30,
         image:'/Work_image/image30.jpg',
-        price:'JP GREEN NOIDA',
+        price:'GRC BHUTAN',
         description:"this is good catalog"
         
     },
     {
         id:31,
         image:'/Work_image/image31.jpg',
-        price:'UNITECH VISTA VILAS',
+        price:'INDO AMERICAL SCHOOL',
         description:"this is good catalog"
         
     }
