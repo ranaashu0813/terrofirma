@@ -180,7 +180,7 @@ const Product_Work =[
     {
         id:26,
         image:'/Work_image/image26.jpg',
-        price:'HOUSDING PROJECT, JHAJJAR',
+        price:'HOUSING PROJECT, JHAJJAR',
         description:"this is good catalog"
         
     },
@@ -215,7 +215,7 @@ const Product_Work =[
     {
         id:31,
         image:'/Work_image/image31.jpg',
-        price:'INDO AMERICAL SCHOOL',
+        price:'INDO AMERICAN SCHOOL',
         description:"this is good catalog"
         
     }

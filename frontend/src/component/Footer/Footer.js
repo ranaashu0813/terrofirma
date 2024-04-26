@@ -9,7 +9,7 @@ const Footer = () => {
       <div class="container">
         <div class="col1">
           <img src="/logo.png" alt="" />
-          <Link to="#" class="brand">Terra firma GRC and Concrete</Link>
+          <Link to="#" class="brand">Terra firma GRC and Concrete Company</Link>
           <ul class="media-icons">
             <li>
               <Link to="/"><i class="fa-brands fa-youtube"></i></Link>
@@ -62,6 +62,7 @@ const Footer = () => {
       <div class="footer-bottom">
         <div class="mekk">
           <p>@Terra firma grc 2024 - All Rights Reserved</p>
+   
         </div>
       </div>
     </footer>

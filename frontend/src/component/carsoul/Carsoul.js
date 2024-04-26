@@ -46,7 +46,8 @@ const Carasoul = () => {
    
 
 </div>
-    <div className="text-wrap" style={{height:"maxContent", width:"100%" , backgroundColor: "azure" ,padding: "44px" , textAlign:"center",height:"20vh",display:"flex",justifyContent:"center",alignItems:"center"}}>
+    <div className="text-wrap" style={{height:"maxContent", width:"100%" , 
+    backgroundColor: "azure" ,padding: "44px" , textAlign:"center",display:"flex",justifyContent:"center",alignItems:"center"}}>
     <div>
         <h2 style={{fontWeight:"bold",marginTop:"5rem"}}>Terrafirma Grc And Concrete Company </h2>
       

@@ -50,7 +50,7 @@ const Contact = () => {
       <img src="img/shape.png" class="square" alt="" />
       <div class="form">
         <div class="contact-info">
-          <h3 class="title">Let's get in touch</h3>
+          <h3 class="title">Let's get in touch </h3>
           <p class="text">
           With great pleasure is proud to introduce new concrete
 pavers and tiles that could lead to a breakthrough in the fight against rising
@@ -71,9 +71,11 @@ air pollution.
               
               <div className="phone_number">
 
-              <p> Off : 011-41851337  </p>
-              
+              <p> Off : 011-41851337  </p>    
               <p>MOB : 9810286522</p>
+
+              <p>Owner name : vijay Talwar</p>
+              <p>head office adress : 187 jorbagh , New delhi-110003</p>
               </div>
    
             </div>
