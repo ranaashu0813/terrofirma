@@ -10,7 +10,10 @@ const images = [
     "https://5.imimg.com/data5/IOS/Default/2021/7/SJ/HW/IU/12472122/product-jpeg-1000x1000.png",
     "https://5.imimg.com/data5/SELLER/Default/2021/12/KI/GC/HK/135770529/zigzag-interlocking-tiles-3-500x500.jpg",
     "https://2.imimg.com/data2/ES/DG/MY-3526889/pavers-250x250.jpg",
-    "https://3.imimg.com/data3/SE/CN/MY-2978396/cement-concrete-pavers-1000x1000.jpg"
+    "https://3.imimg.com/data3/SE/CN/MY-2978396/cement-concrete-pavers-1000x1000.jpg",
+    "https://imgs.indiamarketplaces.com/t_images/2749_14325_grc-screens.jpg",
+"https://tiimg.tistatic.com/fp/1/003/905/grc-planter-520.jpg",
+    "https://images.jdmagicbox.com/rep/b2b/grc-screen/grc-screen-1.jpg"
   ].map((image) => ({
     id: crypto.randomUUID(),
     image
@@ -20,7 +23,7 @@ const images = [
     return (
       <div className="App" style={{marginTop:"2rem"}}>
    
-        <Banner images={images} speed={7500} />
+        <Banner images={images} speed={8000} />
 <div className="rating_bar"style={{width:"80vw",margin:"3rem"}}>
         <div class="flex items-center mb-5 " >
     <p class="bg-blue-100 text-blue-800 text-sm font-semibold inline-flex items-center p-1.5 rounded dark:bg-blue-200 dark:text-blue-800">8.7</p>
