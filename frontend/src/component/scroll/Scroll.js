@@ -12,8 +12,9 @@ const images = [
     "https://2.imimg.com/data2/ES/DG/MY-3526889/pavers-250x250.jpg",
     "https://3.imimg.com/data3/SE/CN/MY-2978396/cement-concrete-pavers-1000x1000.jpg",
     "https://imgs.indiamarketplaces.com/t_images/2749_14325_grc-screens.jpg",
-"https://tiimg.tistatic.com/fp/1/003/905/grc-planter-520.jpg",
-    "https://images.jdmagicbox.com/rep/b2b/grc-screen/grc-screen-1.jpg"
+"https://3.imimg.com/data3/OS/FV/MY-813707/grc-jali-250x250.jpg",
+    "https://images.jdmagicbox.com/rep/b2b/grc-screen/grc-screen-1.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2022/10/LU/MC/IP/137196728/grc-jali-500x500.PNG"
   ].map((image) => ({
     id: crypto.randomUUID(),
     image
