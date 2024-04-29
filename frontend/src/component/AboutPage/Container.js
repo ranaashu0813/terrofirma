@@ -23,7 +23,7 @@ const Container = () => {
         </div>
         <div className="p-6 bg-grey">
           <div className="leading-relaxed">
-            <h2 className="leading-tight text-4xl font-bold about_className">TERRA FIRMA CONCRETE BLOCKS INDUSTRY</h2>
+            <h2 className="leading-tight text-4xl font-bold about_className">TERRA FIRMA GRC AND CONCRETE COMPANY</h2>
             <p className="mt-4">With great pleasure <span classNameName="text-blue-700">"TERRA FIRMA</span> is proud to introduce new concrete
 pavers and ..</p>
             <p className="mt-4">We have adopted this very new technology from Japan and Netherlands.

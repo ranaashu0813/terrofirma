@@ -212,12 +212,6 @@ const Product_Work =[
         description:"this is good catalog"
         
     },
-    {
-        id:31,
-        image:'/Work_image/image31.jpg',
-        price:'INDO AMERICAN SCHOOL',
-        description:"this is good catalog"
-        
-    }
+  
     ]
     export default Product_Work; 

@@ -11,8 +11,8 @@ const Navbar = () => {
      <nav className="navlink" style={{marginTop:"1rem"}}>
       <Link to="/" className="title">
         <div className="logo_div">
-        <span style={{color:"skyblue"}}>Terra firma GRC</span>
-       <span style={{color:"red"}}>And Concrete </span>
+        <span style={{color:"skyblue"}}>Terra firma GRC And</span>
+       <span style={{color:"red"}}>Concrete Company</span>
         </div>
       
       </Link>

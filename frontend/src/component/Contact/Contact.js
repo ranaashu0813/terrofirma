@@ -58,27 +58,28 @@ air pollution.
           </p>
 
           <div class="info">
-            <div class="information">
-              <img src="img/location.png" class="icon" alt="" />
-              <p>Jamal NO-110/98, Villa Balola, Tehsil - Wazirabad, Dist-Gurugram, Haryan-122015 </p>
-            </div>
-            <div class="information">
-              <img src="img/email.png" class="icon" alt="" />
-              <p>terrafirmagrc@hotmail.com</p>
-            </div>
-            <div class="information">
+          <div class="information">
               <img src="img/phone.png" class="icon" alt="" />
               
               <div className="phone_number">
 
               <p> Off : 011-41851337  </p>    
               <p>MOB : 9810286522</p>
-
+              <p>terrafirmagrc@hotmail.com</p>
               <p>Owner name : vijay Talwar</p>
               <p>head office adress : 187 jorbagh , New delhi-110003</p>
               </div>
    
             </div>
+            <div class="information">
+              <img src="img/location.png" class="icon" alt="" />
+              <p>Jamal NO-110/98, Villa Balola, Tehsil - Wazirabad, Dist-Gurugram, Haryan-122015 </p>
+            </div>
+            <div class="information">
+              <img src="img/email.png" class="icon" alt="" />
+              
+            </div>
+            
           </div>
 
           <div class="social-media">

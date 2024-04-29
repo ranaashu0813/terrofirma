@@ -8,27 +8,35 @@ const Carasoul = () => {
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
   </div>
   <div className="carousel-inner" style={{height: "31rem"}}>
     <div className="carousel-item active">
-    <img src="/image1.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
+    <img src="/image4.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
       <div className="carousel-caption d-md-block">
         <h5 className=' md:text-2xl '>Discover Your Design Destiny</h5>
         <p >Where Creativity Meets Structure</p>
       </div>
     </div>
     <div className="carousel-item">
-      <img src="/image2.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
+      <img src="/image1.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
       <div className="carousel-caption  d-md-block">
         <h5 className=' text-2xl'>Unveiling Architectural Wonders</h5>
         <p >Explore, Envision, Elevate.</p>
       </div>
     </div>
     <div className="carousel-item">
-      <img src="/image3.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
+      <img src="/image2.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
       <div className="carousel-caption  d-md-block">
         <h5 className=' md:text-2xl'>Crafting Dreams into Concrete Realities</h5>
         <p >Your Journey Starts Here.</p>
+      </div>
+    </div>
+    <div className="carousel-item">
+      <img src="/image3.jpg" className="d-block w-[100vw] carasol_image" alt="..." style={{ height: "31rem"}}/>
+      <div className="carousel-caption  d-md-block">
+        <h5 className=' md:text-2xl'>We shape our buildings</h5>
+        <p >therefore they shape us.</p>
       </div>
     </div>
   </div>
