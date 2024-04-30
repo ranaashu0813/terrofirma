@@ -203,14 +203,14 @@ const catalog =[
     description:"Price per sq.ft = 400"
     
 }
-// ,
-// {
-//     id:31,
-//     image:'/scroll_image/image_s_34.jpg',
-//     price:2500,
-//     description:"Price per sq.ft = 400"
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_34.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
     
-// }
+}
 ,
 {
     id:31,
@@ -267,5 +267,86 @@ const catalog =[
     description:"Price per sq.ft = 400"
     
 }
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_42.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_43.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_44.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_45.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_46.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_47.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_48.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_49.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_50.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+,
+{
+    id:31,
+    image:'/scroll_image/image_s_51.jpg',
+    price:2500,
+    description:"Price per sq.ft = 400"
+    
+}
+
 ]
 export default catalog; 

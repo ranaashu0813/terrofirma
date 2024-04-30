@@ -1,6 +1,4 @@
 import { Banner } from "./Banner";
-
-
 import './Banner.css';
 
 const images = [
@@ -14,7 +12,9 @@ const images = [
     "https://imgs.indiamarketplaces.com/t_images/2749_14325_grc-screens.jpg",
 "https://3.imimg.com/data3/OS/FV/MY-813707/grc-jali-250x250.jpg",
     "https://images.jdmagicbox.com/rep/b2b/grc-screen/grc-screen-1.jpg",
-    "https://5.imimg.com/data5/SELLER/Default/2022/10/LU/MC/IP/137196728/grc-jali-500x500.PNG"
+    "https://5.imimg.com/data5/SELLER/Default/2022/10/LU/MC/IP/137196728/grc-jali-500x500.PNG",
+    "https://tiimg.tistatic.com/fp/1/003/905/grc-planter-520.jpg"
+    
   ].map((image) => ({
     id: crypto.randomUUID(),
     image

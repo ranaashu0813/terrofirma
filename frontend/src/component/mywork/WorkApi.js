@@ -211,7 +211,22 @@ const Product_Work =[
         price:'GRC BHUTAN',
         description:"this is good catalog"
         
-    },
-  
+    }
+    ,
+    {
+        id:32,
+        image:'/Work_image/image32.jpg',
+        price:'House at Sonipat',
+        description:"this is good catalog"
+        
+    }
+    ,
+    {
+        id:33,
+        image:'/Work_image/image33.jpg',
+        price:'School at kanpur',
+        description:"this is good catalog"
+        
+    }
     ]
     export default Product_Work; 

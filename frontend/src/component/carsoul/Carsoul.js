@@ -59,7 +59,7 @@ const Carasoul = () => {
     <div>
         <h2 style={{fontWeight:"bold",marginTop:"5rem"}}>Terrafirma Grc And Concrete Company </h2>
       
-        <p>Concrete Products</p>
+        <p>GRC & Concrete Products</p>
 
     </div>
 
